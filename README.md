@@ -1,2 +1,2 @@
 # learn-javascript
-leaning javascript with Gemini
+learning javascript with Gemini
